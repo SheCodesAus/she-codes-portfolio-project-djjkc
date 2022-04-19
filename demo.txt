@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hi! Hopefully this works
-=======
-Hi!
->>>>>>> db33a43ddf371cdd8acb123848404b2c04becdf1
